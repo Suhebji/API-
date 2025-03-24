@@ -1,5 +1,16 @@
-#######
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
 
-yaha youtube ki cookie paste kre 
-isko cut krke
-jesa video me btaya hai
+.facebook.com	TRUE	/	TRUE	1777136025	sb	_xXSZ6-D-vsQ28gx0eavjhgM
+.facebook.com	TRUE	/	TRUE	1776381460	ps_l	1
+.facebook.com	TRUE	/	TRUE	1776381460	ps_n	1
+.facebook.com	TRUE	/	TRUE	1777345958	datr	2A_WZ922WUOh2kLMTRkfXL7g
+.facebook.com	TRUE	/	TRUE	1747969957	vpd	v1%3B674x360x2
+.facebook.com	TRUE	/	TRUE	1743180821	wd	360x674
+.facebook.com	TRUE	/	TRUE	1774112025	c_user	61557988164733
+.facebook.com	TRUE	/	TRUE	1750352025	fr	1OHCKjxssXxrTSTHm.AWWl13SXlzsuXrDvqdXwnQsQkJ14Ej4AloPVaA.Bn1khz..AAA.0.0.Bn3ZmX.AWWpNxl65Ng
+.facebook.com	TRUE	/	TRUE	1774112025	xs	27%3A3UeVhiNswQYULg%3A2%3A1742576023%3A-1%3A4966
+.facebook.com	TRUE	/	TRUE	1743180826	locale	en_GB
+.facebook.com	TRUE	/	TRUE	1774321957	fbl_st	101031791%3BT%3A29046432
+.facebook.com	TRUE	/	TRUE	1750561957	wl_cbv	v2%3Bclient_version%3A2766%3Btimestamp%3A1742785957
